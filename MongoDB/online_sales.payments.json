@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b4"
+  },
+  "order_id": 1,
+  "method": "Tarjeta",
+  "amount": 1088,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b5"
+  },
+  "order_id": 2,
+  "method": "Nequi",
+  "amount": 520,
+  "status": "Pendiente",
+  "payment_date": {
+    "$date": "2026-04-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b6"
+  },
+  "order_id": 3,
+  "method": "Efectivo",
+  "amount": 318,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-04-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b7"
+  },
+  "order_id": 4,
+  "method": "Tarjeta",
+  "amount": 1052,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b8"
+  },
+  "order_id": 5,
+  "method": "Nequi",
+  "amount": 204,
+  "status": "Pendiente",
+  "payment_date": {
+    "$date": "2026-04-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9b9"
+  },
+  "order_id": 6,
+  "method": "PSE",
+  "amount": 754,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-04-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9ba"
+  },
+  "order_id": 7,
+  "method": "Efectivo",
+  "amount": 860,
+  "status": "Cancelado",
+  "payment_date": {
+    "$date": "2026-03-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9bb"
+  },
+  "order_id": 8,
+  "method": "Tarjeta",
+  "amount": 396,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-03-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9bc"
+  },
+  "order_id": 9,
+  "method": "Nequi",
+  "amount": 564,
+  "status": "Pendiente",
+  "payment_date": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff60d6b8ce5cddc3b6c9bd"
+  },
+  "order_id": 10,
+  "method": "Tarjeta",
+  "amount": 546,
+  "status": "Completado",
+  "payment_date": {
+    "$date": "2026-03-15T00:00:00.000Z"
+  }
+}]

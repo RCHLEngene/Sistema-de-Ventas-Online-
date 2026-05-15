@@ -1,0 +1,990 @@
+[{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c93e"
+  },
+  "name": "Producto 1",
+  "category": "General",
+  "price": 126,
+  "stock": 26,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c93f"
+  },
+  "name": "Producto 2",
+  "category": "General",
+  "price": 150,
+  "stock": 89,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c940"
+  },
+  "name": "Producto 3",
+  "category": "General",
+  "price": 481,
+  "stock": 62,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c941"
+  },
+  "name": "Producto 4",
+  "category": "General",
+  "price": 262,
+  "stock": 90,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c942"
+  },
+  "name": "Producto 5",
+  "category": "General",
+  "price": 251,
+  "stock": 9,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c943"
+  },
+  "name": "Producto 6",
+  "category": "General",
+  "price": 316,
+  "stock": 60,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c944"
+  },
+  "name": "Producto 7",
+  "category": "General",
+  "price": 153,
+  "stock": 89,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c945"
+  },
+  "name": "Producto 8",
+  "category": "General",
+  "price": 520,
+  "stock": 83,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c946"
+  },
+  "name": "Producto 9",
+  "category": "General",
+  "price": 262,
+  "stock": 92,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c948"
+  },
+  "name": "Producto 11",
+  "category": "General",
+  "price": 75,
+  "stock": 43,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c949"
+  },
+  "name": "Producto 12",
+  "category": "General",
+  "price": 163,
+  "stock": 41,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94a"
+  },
+  "name": "Producto 13",
+  "category": "General",
+  "price": 106,
+  "stock": 30,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94b"
+  },
+  "name": "Producto 14",
+  "category": "General",
+  "price": 506,
+  "stock": 42,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94c"
+  },
+  "name": "Producto 15",
+  "category": "General",
+  "price": 293,
+  "stock": 38,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94d"
+  },
+  "name": "Producto 16",
+  "category": "General",
+  "price": 326,
+  "stock": 55,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94e"
+  },
+  "name": "Producto 17",
+  "category": "General",
+  "price": 84,
+  "stock": 74,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c94f"
+  },
+  "name": "Producto 18",
+  "category": "General",
+  "price": 101,
+  "stock": 61,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c950"
+  },
+  "name": "Producto 19",
+  "category": "General",
+  "price": 363,
+  "stock": 41,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c951"
+  },
+  "name": "Producto 20",
+  "category": "General",
+  "price": 102,
+  "stock": 77,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c952"
+  },
+  "name": "Producto 21",
+  "category": "General",
+  "price": 51,
+  "stock": 45,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c953"
+  },
+  "name": "Producto 22",
+  "category": "General",
+  "price": 122,
+  "stock": 96,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c954"
+  },
+  "name": "Producto 23",
+  "category": "General",
+  "price": 352,
+  "stock": 8,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c955"
+  },
+  "name": "Producto 24",
+  "category": "General",
+  "price": 375,
+  "stock": 66,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c956"
+  },
+  "name": "Producto 25",
+  "category": "General",
+  "price": 380,
+  "stock": 22,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c957"
+  },
+  "name": "Producto 26",
+  "category": "General",
+  "price": 486,
+  "stock": 80,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c958"
+  },
+  "name": "Producto 27",
+  "category": "General",
+  "price": 520,
+  "stock": 1,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c959"
+  },
+  "name": "Producto 28",
+  "category": "General",
+  "price": 457,
+  "stock": 71,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95a"
+  },
+  "name": "Producto 29",
+  "category": "General",
+  "price": 377,
+  "stock": 86,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95b"
+  },
+  "name": "Producto 30",
+  "category": "General",
+  "price": 435,
+  "stock": 90,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95c"
+  },
+  "name": "Producto 31",
+  "category": "General",
+  "price": 208,
+  "stock": 39,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95d"
+  },
+  "name": "Producto 32",
+  "category": "General",
+  "price": 206,
+  "stock": 28,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95e"
+  },
+  "name": "Producto 33",
+  "category": "General",
+  "price": 123,
+  "stock": 36,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c95f"
+  },
+  "name": "Producto 34",
+  "category": "General",
+  "price": 184,
+  "stock": 18,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c960"
+  },
+  "name": "Producto 35",
+  "category": "General",
+  "price": 497,
+  "stock": 43,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c961"
+  },
+  "name": "Producto 36",
+  "category": "General",
+  "price": 407,
+  "stock": 80,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c962"
+  },
+  "name": "Producto 37",
+  "category": "General",
+  "price": 199,
+  "stock": 27,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c963"
+  },
+  "name": "Producto 38",
+  "category": "General",
+  "price": 477,
+  "stock": 23,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c964"
+  },
+  "name": "Producto 39",
+  "category": "General",
+  "price": 499,
+  "stock": 30,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c965"
+  },
+  "name": "Producto 40",
+  "category": "General",
+  "price": 239,
+  "stock": 79,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c966"
+  },
+  "name": "Producto 41",
+  "category": "General",
+  "price": 466,
+  "stock": 13,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c967"
+  },
+  "name": "Producto 42",
+  "category": "General",
+  "price": 213,
+  "stock": 88,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c968"
+  },
+  "name": "Producto 43",
+  "category": "General",
+  "price": 234,
+  "stock": 17,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c969"
+  },
+  "name": "Producto 44",
+  "category": "General",
+  "price": 232,
+  "stock": 12,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96a"
+  },
+  "name": "Producto 45",
+  "category": "General",
+  "price": 396,
+  "stock": 76,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96b"
+  },
+  "name": "Producto 46",
+  "category": "General",
+  "price": 369,
+  "stock": 69,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96c"
+  },
+  "name": "Producto 47",
+  "category": "General",
+  "price": 92,
+  "stock": 4,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96d"
+  },
+  "name": "Producto 48",
+  "category": "General",
+  "price": 199,
+  "stock": 32,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96e"
+  },
+  "name": "Producto 49",
+  "category": "General",
+  "price": 278,
+  "stock": 13,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c96f"
+  },
+  "name": "Producto 50",
+  "category": "General",
+  "price": 282,
+  "stock": 2,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c970"
+  },
+  "name": "Producto 51",
+  "category": "General",
+  "price": 422,
+  "stock": 39,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c971"
+  },
+  "name": "Producto 52",
+  "category": "General",
+  "price": 439,
+  "stock": 87,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c972"
+  },
+  "name": "Producto 53",
+  "category": "General",
+  "price": 171,
+  "stock": 55,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c973"
+  },
+  "name": "Producto 54",
+  "category": "General",
+  "price": 112,
+  "stock": 75,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c974"
+  },
+  "name": "Producto 55",
+  "category": "General",
+  "price": 337,
+  "stock": 16,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c975"
+  },
+  "name": "Producto 56",
+  "category": "General",
+  "price": 546,
+  "stock": 30,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c976"
+  },
+  "name": "Producto 57",
+  "category": "General",
+  "price": 460,
+  "stock": 79,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c977"
+  },
+  "name": "Producto 58",
+  "category": "General",
+  "price": 76,
+  "stock": 76,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c978"
+  },
+  "name": "Producto 59",
+  "category": "General",
+  "price": 522,
+  "stock": 93,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c979"
+  },
+  "name": "Producto 60",
+  "category": "General",
+  "price": 96,
+  "stock": 3,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97a"
+  },
+  "name": "Producto 61",
+  "category": "General",
+  "price": 233,
+  "stock": 22,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97b"
+  },
+  "name": "Producto 62",
+  "category": "General",
+  "price": 256,
+  "stock": 63,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97c"
+  },
+  "name": "Producto 63",
+  "category": "General",
+  "price": 179,
+  "stock": 11,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97d"
+  },
+  "name": "Producto 64",
+  "category": "General",
+  "price": 269,
+  "stock": 58,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97e"
+  },
+  "name": "Producto 65",
+  "category": "General",
+  "price": 506,
+  "stock": 44,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c97f"
+  },
+  "name": "Producto 66",
+  "category": "General",
+  "price": 439,
+  "stock": 45,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c980"
+  },
+  "name": "Producto 67",
+  "category": "General",
+  "price": 542,
+  "stock": 26,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c981"
+  },
+  "name": "Producto 68",
+  "category": "General",
+  "price": 418,
+  "stock": 27,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c982"
+  },
+  "name": "Producto 69",
+  "category": "General",
+  "price": 236,
+  "stock": 10,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c983"
+  },
+  "name": "Producto 70",
+  "category": "General",
+  "price": 465,
+  "stock": 15,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c984"
+  },
+  "name": "Producto 71",
+  "category": "General",
+  "price": 160,
+  "stock": 40,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c985"
+  },
+  "name": "Producto 72",
+  "category": "General",
+  "price": 460,
+  "stock": 9,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c986"
+  },
+  "name": "Producto 73",
+  "category": "General",
+  "price": 388,
+  "stock": 61,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c987"
+  },
+  "name": "Producto 74",
+  "category": "General",
+  "price": 340,
+  "stock": 38,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c988"
+  },
+  "name": "Producto 75",
+  "category": "General",
+  "price": 135,
+  "stock": 81,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c989"
+  },
+  "name": "Producto 76",
+  "category": "General",
+  "price": 421,
+  "stock": 14,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98a"
+  },
+  "name": "Producto 77",
+  "category": "General",
+  "price": 537,
+  "stock": 81,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98b"
+  },
+  "name": "Producto 78",
+  "category": "General",
+  "price": 491,
+  "stock": 60,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98c"
+  },
+  "name": "Producto 79",
+  "category": "General",
+  "price": 66,
+  "stock": 66,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98d"
+  },
+  "name": "Producto 80",
+  "category": "General",
+  "price": 464,
+  "stock": 24,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98e"
+  },
+  "name": "Producto 81",
+  "category": "General",
+  "price": 363,
+  "stock": 33,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c98f"
+  },
+  "name": "Producto 82",
+  "category": "General",
+  "price": 496,
+  "stock": 73,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c990"
+  },
+  "name": "Producto 83",
+  "category": "General",
+  "price": 545,
+  "stock": 18,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c991"
+  },
+  "name": "Producto 84",
+  "category": "General",
+  "price": 531,
+  "stock": 49,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c992"
+  },
+  "name": "Producto 85",
+  "category": "General",
+  "price": 170,
+  "stock": 32,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c993"
+  },
+  "name": "Producto 86",
+  "category": "General",
+  "price": 304,
+  "stock": 92,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c994"
+  },
+  "name": "Producto 87",
+  "category": "General",
+  "price": 438,
+  "stock": 83,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c995"
+  },
+  "name": "Producto 88",
+  "category": "General",
+  "price": 424,
+  "stock": 86,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c996"
+  },
+  "name": "Producto 89",
+  "category": "General",
+  "price": 466,
+  "stock": 88,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c997"
+  },
+  "name": "Producto 90",
+  "category": "General",
+  "price": 424,
+  "stock": 32,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c998"
+  },
+  "name": "Producto 91",
+  "category": "General",
+  "price": 433,
+  "stock": 53,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c999"
+  },
+  "name": "Producto 92",
+  "category": "General",
+  "price": 446,
+  "stock": 89,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99a"
+  },
+  "name": "Producto 93",
+  "category": "General",
+  "price": 101,
+  "stock": 15,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99b"
+  },
+  "name": "Producto 94",
+  "category": "General",
+  "price": 145,
+  "stock": 62,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99c"
+  },
+  "name": "Producto 95",
+  "category": "General",
+  "price": 384,
+  "stock": 21,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99d"
+  },
+  "name": "Producto 96",
+  "category": "General",
+  "price": 160,
+  "stock": 60,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99e"
+  },
+  "name": "Producto 97",
+  "category": "General",
+  "price": 358,
+  "stock": 61,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c99f"
+  },
+  "name": "Producto 98",
+  "category": "General",
+  "price": 83,
+  "stock": 84,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c9a0"
+  },
+  "name": "Producto 99",
+  "category": "General",
+  "price": 129,
+  "stock": 25,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "69ff5d72b8ce5cddc3b6c9a1"
+  },
+  "name": "Producto 100",
+  "category": "General",
+  "price": 413,
+  "stock": 67,
+  "status": true
+}]

@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9a8"
+  },
+  "order_id": 1,
+  "customer_email": "sofia.herrera2025@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c93e"
+      },
+      "quantity": 1
+    },
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c940"
+      },
+      "quantity": 2
+    }
+  ],
+  "total": 1088,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9a9"
+  },
+  "order_id": 2,
+  "customer_email": "luis.mendoza2024@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c945"
+      },
+      "quantity": 1
+    }
+  ],
+  "total": 520,
+  "status": "Pendiente",
+  "created_at": {
+    "$date": "2026-04-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9aa"
+  },
+  "order_id": 3,
+  "customer_email": "camila.rios2023@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c94a"
+      },
+      "quantity": 3
+    }
+  ],
+  "total": 318,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-04-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9ab"
+  },
+  "order_id": 4,
+  "customer_email": "felipe.castro2022@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c94d"
+      },
+      "quantity": 2
+    },
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c950"
+      },
+      "quantity": 1
+    }
+  ],
+  "total": 1052,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9ac"
+  },
+  "order_id": 5,
+  "customer_email": "daniela.lopez2021@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c952"
+      },
+      "quantity": 4
+    }
+  ],
+  "total": 204,
+  "status": "Pendiente",
+  "created_at": {
+    "$date": "2026-04-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9ad"
+  },
+  "order_id": 6,
+  "customer_email": "esteban.morales2020@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c959"
+      },
+      "quantity": 2
+    }
+  ],
+  "total": 754,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-04-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9ae"
+  },
+  "order_id": 7,
+  "customer_email": "valeria.torres2019@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c95f"
+      },
+      "quantity": 1
+    },
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c963"
+      },
+      "quantity": 2
+    }
+  ],
+  "total": 860,
+  "status": "Cancelado",
+  "created_at": {
+    "$date": "2026-03-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9af"
+  },
+  "order_id": 8,
+  "customer_email": "ricardo.sanchez2018@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c96a"
+      },
+      "quantity": 1
+    }
+  ],
+  "total": 396,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-03-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9b0"
+  },
+  "order_id": 9,
+  "customer_email": "sofia.herrera2025@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c96f"
+      },
+      "quantity": 2
+    }
+  ],
+  "total": 564,
+  "status": "Pendiente",
+  "created_at": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ff6043b8ce5cddc3b6c9b1"
+  },
+  "order_id": 10,
+  "customer_email": "luis.mendoza2024@gmail.com",
+  "products": [
+    {
+      "product_id": {
+        "$oid": "69ff5d72b8ce5cddc3b6c975"
+      },
+      "quantity": 1
+    }
+  ],
+  "total": 546,
+  "status": "Pagado",
+  "created_at": {
+    "$date": "2026-03-15T00:00:00.000Z"
+  }
+}]
