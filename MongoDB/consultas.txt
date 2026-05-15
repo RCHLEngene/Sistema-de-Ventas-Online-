@@ -1,0 +1,51 @@
+Las consultas se pueden generar desde mongosheel o sobre la colección con la que se desea trabajar.
+
+//Consultar productos donde el precio sea mayor a 500
+db.products.find({ price: { $gt: 500 } })
+
+
+//Relacionar pedidos con información de clientes
+db.orders.aggregate([
+  {
+    $lookup: {
+      from: "customers",
+      localField: "id_customer",
+      foreignField: "_id",
+      as: "customer_info"
+    }
+  }
+])
+
+//Consultar las ordenes que ya aparezcan en estado pagado
+db.orders.find({status: "Pagado"})
+
+//Actualizar precio de un producto
+db.products.updateOne(
+ { name:"Producto 2"},
+ { $set:{ price:150}}
+)
+
+//Eliminar un producto de la colección productos
+db.products.deleteOne({
+ name:"Producto 10"
+})
+
+//Promedio de ventas
+db.products.aggregate([
+  {
+    $group: {
+      _id: null,
+      average_price: { $avg: "$price" }
+    }
+  }
+])
+
+//Total de ventas
+db.orders.aggregate([
+{
+ $group:{
+   _id:null,
+   total_sales:{ $sum:"$total"}
+ }
+}
+])
